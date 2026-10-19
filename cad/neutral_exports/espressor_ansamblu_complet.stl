@@ -1,0 +1,9 @@
+solid espressor_ansamblu_complet
+  facet normal 0.000000e+00 0.000000e+00 1.000000e+00
+    outer loop
+      vertex 0.000000e+00 0.000000e+00 0.000000e+00
+      vertex 2.350000e+02 0.000000e+00 0.000000e+00
+      vertex 2.350000e+02 2.900000e+02 0.000000e+00
+    endloop
+  endfacet
+endsolid espressor_ansamblu_complet

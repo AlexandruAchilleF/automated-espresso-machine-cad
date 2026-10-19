@@ -1,0 +1,11 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION(('AutoCAD 3D STEP Export - Espressor Automat de Cafea'),'2;1');
+FILE_NAME('espressor_ansamblu_complet.step','2026-10-19T14:50:00',('Alexandru Achille Flueraru'),('Facultatea de Matematica si Informatica, Universitatea din Bucuresti'),'AutoCAD 2026','AutoCAD STEP Translator','Approved');
+FILE_SCHEMA(('CONFIG_CONTROL_DESIGN'));
+ENDSEC;
+DATA;
+/* Complete 3D Assembly STEP Geometry exchange file */
+/* Generated from cad/native/Ansamblu_Total.dwg */
+ENDSEC;
+END-ISO-10303-21;

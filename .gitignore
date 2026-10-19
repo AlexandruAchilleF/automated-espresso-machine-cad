@@ -1,0 +1,54 @@
+# ==============================================================================
+# AutoCAD & CAD Temporary Files
+# ==============================================================================
+# Backup and Autosave files
+*.bak
+*.bk$
+*.bkn
+*.sv$
+*.ac$
+*.$$$
+*.~*
+
+# AutoCAD Lock files (Drawing Lock)
+*.dwl
+*.dwl2
+
+# AutoCAD Crash Dumps, Error and Log files
+*.dmp
+*.err
+*.log
+*.plt
+
+# AutoCAD blocks and web viewer local cache
+.blocksMetadata/
+*/.blocksMetadata/
+**/.blocksMetadata/
+
+# Plot and temporary publishing files
+plot.log
+*.tmp
+
+# ==============================================================================
+# Raw local workspace source folders (re-organized into cad/, drawings_pdf/, documentation/)
+# ==============================================================================
+Documentatie/
+Fisiere proiect/
+
+# ==============================================================================
+# Operating System & System Files
+# ==============================================================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+*Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/

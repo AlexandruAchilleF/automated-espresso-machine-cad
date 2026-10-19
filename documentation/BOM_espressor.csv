@@ -1,0 +1,25 @@
+Item_No,Componenta,Cantitate,Material,Metoda_Fabricatie,Rol_Functional
+1,Cadru Inferior (Sasiu baza),1,Otel structural Fe P04 / Aluminiu,Debitare laser CNC si ambutisare la rece,Sasiu de rezistenta pentru sustinerea pompei boilerului si tavii de scurgere
+2,Cadru Vertical (Coloana),1,Otel structural 1.5mm,Debitare laser si indoire pe abkant,Rigidizare verticala si suport pentru montajul componentelor electrice
+3,Cadru Orizontal (Traversa),1,Otel structural 1.5mm,Decupare stantare si ambutisare,Sustinere grup de extractie si fixare panou superior
+4,Panou Frontal,1,Otel Inoxidabil AISI 304 satinat (1.2mm),Debitare laser CNC stantare si indoire,Interfata principala de operare suport comutatoare si lampa martor
+5,Panou Superior (Platou cesti),1,Otel Inoxidabil AISI 304 satinat (1.0mm),Ambutisare adanca decupare laser,Inchidere superioara carcasa si preincalzire pasiva cesti cafea
+6,Panou Spate si Laterale,1,Otel Inoxidabil AISI 304 satinat (1.0mm),Debitare laser stantare fante ventilatie,Protectie perimetrica si fanta ghidare rezervor de apa
+7,Panou Anti-Stropire,1,Otel Inoxidabil AISI 304 finisaj oglinda,Debitare laser debavurare si lustruire,Protectie sasiu impotriva stropilor de cafea si condens
+8,Gratar Scurgere,1,Otel Inoxidabil AISI 304 lustruit (1.2mm),Stantare CNC fante eliptice debavurare,Suport ceasca si scurgere lichide in tava de recuperare
+9,Rezervor Apa (2.0 L),1,Polimer alimentar SAN / Tritan fara BPA,Turnare prin injectie mase plastice,Stocare rezerva apa potabila cu cuplaj supapa retinere inferioara
+10,Capac Rezervor,1,Polimer ABS de inalta densitate negru mat,Turnare prin injectie,Etanseizare superioara si protectie praf rezervor apa
+11,Boiler / Cazan Termic (300 ml),1,Alama sanitara alimentara CW510L Lead-Free,Turnare de precizie si prelucrare aschiere CNC,Incalzire apa si generare abur la inertie termica ridicata
+12,Rezistenta Electrica (1100W),1,Incoloy 800 cu flansa alama,Formare tubulara spiralata si lipire tare,Conversie electrotermica pentru incalzire rapida si mentinere 93C
+13,Grup de Extractie (58mm),1,Alama forjata masiva cromata,Forjare la cald si frezare CNC 5 axe,Montaj baioneta portafiltru dispersie apa calda si stabilitate termica
+14,Corp Portafiltru,1,Alama masiva forjata placata cu crom,Forjare strunjire si frezare CNC,Camera presiune extractie retentie caldura si cuplaj 2 guri curgere
+15,Maner Portafiltru,1,Polimer fenolic (Bachelita) rezistent termic,Injectie plastic si insertie filet M10 otel,Manevrare ergonomica izolata termic a portafiltrului
+16,Sita Portafiltru (18g dubla),1,Otel Inoxidabil AISI 304 alimentar,Ambutisare adanca si microperforare laser,Retinere turba cafea macinata si filtrare la presiune 9 bar
+17,Valva Abur (Robinet dozare),1,Alama forjata CW510L,Prelucrare de precizie pe strung CNC,Reglaj progresiv al debitului de abur uscat pentru frotare lapte
+18,Teava Abur (Steam Wand),1,Otel Inoxidabil AISI 304 fara sudura,Indoire CNC pe dorn si articulatie sferica,Orientare multidirectionala si injectie abur in cana de lapte
+19,Buton Abur,1,Polimer POM / ABS negru mat,Injectie mase plastice cu caneluri radiale,Actionare rotativa manuala a valvei de dozare a aburului
+20,Pompa cu Vibratie (15 bar),1,Corp poliamida PA66 piston inox feritic,Subansamblu industrial standardizat (ex ULKA EP5),Generare presiune hidraulica 15 bar pentru circuitul de extractie
+21,Electrovalva 3 Cai (OPV Solenoid),1,Corp alama forjata bobina 230V clasa H,Prelucrare CNC si asamblare electro-pneumatica,Descarcare instantanee a presiunii din portafiltru la oprirea extractiei
+22,Conducte Hidraulice & Racorduri,8,Tevi cupru CW024A si furtun PTFE alimentar,Trefilare indoire la rece si sertizare conica,Distributie lichide si abur la temperaturi si presiuni inalte
+23,Intrerupatoare Basculante (3 buc),3,Carcasa poliamida ignifuga PA66,Injectie plastic contacte bimetalice argintate,Comanda pornire generala pompa infuzie si rezistenta abur
+24,Lampa Semnalizare (Martor),1,Policarbonat termorezistent portocaliu dispersiv,Injectie mase plastice cu miez LED/Neon,Indicare vizuala a starii de incalzire a boilerului
